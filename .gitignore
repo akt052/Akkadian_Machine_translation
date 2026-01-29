@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data
+Data
+# Data/raw/
+# Data/Processed/
+*.zip
+*.tar
+*.gz
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environment
+.env
